@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 4vh;
+    text-align: center;
+    color: snow;
+}
+
+.container {
+    height: 100vh;
+}
+
+.one {
+    height: 12.5%;
+    background: linear-gradient(90deg, #EA52F8, #0066FF);
+}
+  
+.two {
+    height: 12.5%;
+    background: linear-gradient(90deg, #799F0C, #FFE000);
+}
+  
+.three {
+    height: 12.5%;
+    background: linear-gradient(90deg, #191654, #43C6AC);
+}
+  
+.four {
+    height: 12.5%;
+    background: linear-gradient(90deg, #FF886A, #FCF6CF);
+}
+  
+.five {
+    height: 12.5%;
+    background: linear-gradient(90deg, #2BC0E4, #EAECC6);
+}
+  
+.six {
+    height: 12.5%;
+    background: linear-gradient(90deg, #8C366C, #6E64E7);
+}
+  
+.seven {
+    height: 12.5%;
+    background: linear-gradient(90deg, #0F3443, #34E89E);
+}
+  
+.eight {
+    height: 12.5%;
+    background: linear-gradient(90deg, #0F0C29, #302B63);
+}
